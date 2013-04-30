@@ -1,0 +1,5 @@
+This isn't complete. It isn't even debugged. 
+
+It is, however, the beginning of a secure DMZ service I work on occasionally. It was put on hold in February to deal with my equity based clients. When it is complete, I will use it to finish a research project that I work on in spare time. 
+
+I included it here because you were interested in java programs, and this is probably the only one I've worked on outside of an NDA.

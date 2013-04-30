@@ -1,0 +1,30 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from SecureDMZService WSDL service -->
+
+  <service name="SecureDMZ" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://dmz.com"/>
+      <parameter name="wsdlServiceElement" value="SecureDMZService"/>
+      <parameter name="schemaQualified" value="http://dmz.com"/>
+      <parameter name="wsdlServicePort" value="SecureDMZ"/>
+      <parameter name="className" value="com.dmz.SecureDMZSoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="SecureDMZ"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="runOperation" qname="operNS:runOperation" xmlns:operNS="http://dmz.com" returnQName="retNS:runOperationReturn" xmlns:retNS="http://dmz.com" returnType="rtns:string" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:uuid" xmlns:pns="http://dmz.com" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+        <parameter qname="pns:message" xmlns:pns="http://dmz.com" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <parameter name="allowedMethods" value="runOperation"/>
+
+  </service>
+</deployment>
