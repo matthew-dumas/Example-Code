@@ -1,0 +1,3 @@
+This is a very basic perl bot for IRC. It has a list function, persistence, the ability to escalate privileges, and the ability to add new ops. 
+
+There were some bugs, but this did the job well enough.

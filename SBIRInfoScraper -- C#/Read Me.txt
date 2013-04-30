@@ -1,0 +1,3 @@
+This is a quick and dirty data scraper program. I used it to quickly pull and categorize SBIR solicitations so that I could analyze them for past trends. This scrapes the information directly off of a public government website and saves it for human analysis later. 
+
+There is almost no error handling, and it is by no means robust.

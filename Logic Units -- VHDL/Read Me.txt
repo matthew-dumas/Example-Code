@@ -1,0 +1,5 @@
+These logic units were used in the creation of a 32-bit microprocessor architecture for some friends that may or may not be used in a future product. To ensure the integrity of their processor, I've removed the actual processor file. 
+
+VHDL literally modifies the hardware on an FPGA, and as such is not strictly a programming language. However, I included it here as an example of an extremely object-oriented approach. Each file here is instantiated as an object in the vhd code for the processor as a component. Each component is then used multiple times to form a processor unit. 
+
+The entity declaration declares a resuable object. To use this entity in another object, it must be instantiated as a component. The entity/component declarations themselves act as the interface for the object, much like the interfaces we were discussing during the interview. 

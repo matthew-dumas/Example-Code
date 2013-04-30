@@ -1,0 +1,3 @@
+This code is a GCODE generator for use with my 3D printer. It's used to test firmware upgrades by manually entering in GCODE instructions. 
+
+GCODE is the code that runs automated CNC routers.

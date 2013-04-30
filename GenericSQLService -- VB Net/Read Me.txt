@@ -1,0 +1,1 @@
+This is a quick and dirty generic SQL service. Not much is implemented in the way of security or error handling. It pretty much passes on SQL commands directly to the SQL server without verifying them. It was a part of a proof of concept software scheme that could be used with Windows 8 Apps to directly communicate with a server. 

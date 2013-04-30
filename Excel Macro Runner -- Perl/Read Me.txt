@@ -1,0 +1,1 @@
+This program loads either a single excel file, or a directory of excel files and runs the specified macro, then saves the changes.

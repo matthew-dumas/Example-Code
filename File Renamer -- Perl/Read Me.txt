@@ -1,0 +1,5 @@
+This is a utility that batch renames files. 
+
+It searches a directory for all files with the regex entered and replaces it with the pattern entered. 
+
+For some reason, this does not appear to be working on windows 7. The last time I used it was on windows xp.

@@ -1,0 +1,3 @@
+This is a quick and dirty transcription program that I created for my mother when her transcription machine broke. 
+
+It utilizes a key-hook to allow her to control the audio as she needs. I didn't optimize anything, nor did I include any filetypes outside of the typical filetypes that C# plays nicely with. I completed it in approximately 2 hours because she needed something that night. 

@@ -1,0 +1,11 @@
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\bin\GenericSQLService.dll
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\bin\GenericSQLService.pdb
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\bin\GenericSQLService.xml
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\bin\MySql.Data.dll
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\obj\Release\GenericSQLService.Resources.resources
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\obj\Release\GenerateResource.read.1.tlog
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\obj\Release\GenerateResource.write.1.tlog
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\obj\Release\GenericSQLService.dll
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\obj\Release\GenericSQLService.xml
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\GenericSQLService\GenericSQLService\obj\Release\GenericSQLService.pdb

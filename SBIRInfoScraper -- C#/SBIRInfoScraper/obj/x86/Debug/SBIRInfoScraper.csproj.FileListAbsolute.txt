@@ -1,0 +1,15 @@
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\bin\Debug\SBIRInfoScraper.exe
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\bin\Debug\SBIRInfoScraper.pdb
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\MainWindow.baml
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\MainWindow.g.cs
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\App.g.cs
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\SBIRInfoScraper_MarkupCompile.cache
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\SBIRInfoScraper.g.resources
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\SBIRInfoScraper.exe
+C:\Users\matt.dumas\documents\visual studio 2010\Projects\SBIRInfoScraper\SBIRInfoScraper\obj\x86\Debug\SBIRInfoScraper.pdb

@@ -1,0 +1,13 @@
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\bin\Debug\AudioProg.exe
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\bin\Debug\AudioProg.pdb
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\MainWindow.baml
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\App.g.cs
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\AudioProg_MarkupCompile.cache
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\AudioProg.g.resources
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\AudioProg.exe
+C:\Users\Ghost\Desktop\AudioProg\AudioProg\obj\x86\Debug\AudioProg.pdb

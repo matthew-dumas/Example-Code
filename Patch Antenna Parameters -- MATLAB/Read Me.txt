@@ -1,0 +1,5 @@
+patchcalc.m is an unencapsulated script that is useful for calculating certain parameters of a patch antenna. 
+
+patchcalc2.m calculates similar parameters from different information. This is encapsulated as a library function for use in MATLAB. 
+
+patchcalc.asv combines both into a matlab script that calculates the parameters based on which set of data is given. It is unencapsulated, but easily modifiable and runnable. 
